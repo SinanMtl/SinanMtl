@@ -4,7 +4,7 @@ Senior Frontend Developer | Team Lead | JavaScript Enthusiast
 
 ---
 
-Hello, I’m Sinan Mutlu. For over 14 years, I’ve worked as a frontend developer and team lead on many projects at various companies. My expertise is in **JavaScript** and **Node.js**, and the frameworks I use actively are **Vue**, **Nuxt**. Of course, I have no problem using the right tools when needed.  
+For over 14 years, I’ve worked as a frontend developer and team lead on many projects at various companies. My expertise is in **JavaScript** and **Node.js**, and the frameworks I use actively are **Vue**, **Nuxt**. Of course, I have no problem using the right tools when needed.  
 **Don’t hesitate to get in touch!**
 
 ## 🛠️ Tech Stack
